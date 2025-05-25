@@ -1,0 +1,27 @@
+services:
+  users_db:
+    image: mongo:6
+    container_name: users_db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: paula
+      MONGO_INITDB_ROOT_PASSWORD: 1234
+      MONGO_INITDB_DATABASE: users
+    ports:
+      - "27017:27017"
+    volumes:
+      - users_data:/data/db
+  movies_db:
+    image: mongo:6
+    container_name: movies_db
+    environment:
+      MONGO_INITDB_ROOT_USERNAME: paula
+      MONGO_INITDB_ROOT_PASSWORD: 1234
+      MONGO_INITDB_DATABASE: movies
+    ports:
+      - "27018:27017"
+    volumes:
+      - movies_data:/data/db
+
+volumes:
+  users_data:
+  movies_data:

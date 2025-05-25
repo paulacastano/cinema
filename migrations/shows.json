@@ -1,0 +1,162 @@
+[
+  {
+    "id": 1,
+    "movieId": 1,
+    "roomId": 1,
+    "date": "2023-10-01",
+    "timeSlot": "14:00-16:00",
+    "price": 15
+  },
+  {
+    "id": 2,
+    "movieId": 2,
+    "roomId": 1,
+    "date": "2023-10-02",
+    "timeSlot": "16:00-18:00",
+    "price": 15
+  },
+  {
+    "id": 3,
+    "movieId": 3,
+    "roomId": 1,
+    "date": "2023-10-03",
+    "timeSlot": "18:00-20:00",
+    "price": 15
+  },
+  {
+    "id": 4,
+    "movieId": 4,
+    "roomId": 1,
+    "date": "2023-10-04",
+    "timeSlot": "20:00-22:00",
+    "price": 15
+  },
+  {
+    "id": 5,
+    "movieId": 5,
+    "roomId": 1,
+    "date": "2023-10-05",
+    "timeSlot": "14:00-16:00",
+    "price": 15
+  },
+  {
+    "id": 6,
+    "movieId": 6,
+    "roomId": 1,
+    "date": "2023-10-06",
+    "timeSlot": "16:00-18:00",
+    "price": 15
+  },
+  {
+    "id": 7,
+    "movieId": 7,
+    "roomId": 1,
+    "date": "2023-10-07",
+    "timeSlot": "18:00-20:00",
+    "price": 15
+  },
+  {
+    "id": 8,
+    "movieId": 8,
+    "roomId": 1,
+    "date": "2023-10-08",
+    "timeSlot": "20:00-22:00",
+    "price": 15
+  },
+  {
+    "id": 9,
+    "movieId": 9,
+    "roomId": 1,
+    "date": "2023-10-09",
+    "timeSlot": "14:00-16:00",
+    "price": 15
+  },
+  {
+    "id": 10,
+    "movieId": 10,
+    "roomId": 1,
+    "date": "2023-10-10",
+    "timeSlot": "16:00-18:00",
+    "price": 15
+  },
+  {
+    "id": 11,
+    "movieId": 11,
+    "roomId": 1,
+    "date": "2023-10-11",
+    "timeSlot": "18:00-20:00",
+    "price": 15
+  },
+  {
+    "id": 12,
+    "movieId": 12,
+    "roomId": 1,
+    "date": "2023-10-12",
+    "timeSlot": "20:00-22:00",
+    "price": 15
+  },
+  {
+    "id": 13,
+    "movieId": 13,
+    "roomId": 1,
+    "date": "2023-10-13",
+    "timeSlot": "14:00-16:00",
+    "price": 15
+  },
+  {
+    "id": 14,
+    "movieId": 14,
+    "roomId": 1,
+    "date": "2023-10-14",
+    "timeSlot": "16:00-18:00",
+    "price": 15
+  },
+  {
+    "id": 15,
+    "movieId": 15,
+    "roomId": 1,
+    "date": "2023-10-15",
+    "timeSlot": "18:00-20:00",
+    "price": 15
+  },
+  {
+    "id": 16,
+    "movieId": 1,
+    "roomId": 1,
+    "date": "2023-10-16",
+    "timeSlot": "20:00-22:00",
+    "price": 15
+  },
+  {
+    "id": 17,
+    "movieId": 2,
+    "roomId": 1,
+    "date": "2023-10-17",
+    "timeSlot": "14:00-16:00",
+    "price": 15
+  },
+  {
+    "id": 18,
+    "movieId": 3,
+    "roomId": 1,
+    "date": "2023-10-18",
+    "timeSlot": "16:00-18:00",
+    "price": 15
+  },
+  {
+    "id": 19,
+    "movieId": 4,
+    "roomId": 1,
+    "date": "2023-10-19",
+    "timeSlot": "18:00-20:00",
+    "price": 15
+  },
+  {
+    "id": 20,
+    "movieId": 5,
+    "roomId": 1,
+    "date": "2023-10-20",
+    "timeSlot": "20:00-22:00",
+    "price": 15
+  }
+]

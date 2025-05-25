@@ -1,0 +1,202 @@
+[
+  {
+    "id": 1,
+    "userId": 1,
+    "showId": 1,
+    "roomId": 1,
+    "chairId": "A1",
+    "date": "2023-10-01",
+    "timeSlot": "10:00-12:00",
+    "amount": 15
+  },
+  {
+    "id": 2,
+    "userId": 2,
+    "showId": 2,
+    "roomId": 2,
+    "chairId": "B3",
+    "date": "2023-10-02",
+    "timeSlot": "12:00-14:00",
+    "amount": 18
+  },
+  {
+    "id": 3,
+    "userId": 3,
+    "showId": 1,
+    "roomId": 1,
+    "chairId": "C5",
+    "date": "2023-10-03",
+    "timeSlot": "14:00-16:00",
+    "amount": 20
+  },
+  {
+    "id": 4,
+    "userId": 4,
+    "showId": 3,
+    "roomId": 3,
+    "chairId": "D2",
+    "date": "2023-10-04",
+    "timeSlot": "16:00-18:00",
+    "amount": 17
+  },
+  {
+    "id": 5,
+    "userId": 5,
+    "showId": 2,
+    "roomId": 2,
+    "chairId": "E1",
+    "date": "2023-10-05",
+    "timeSlot": "18:00-20:00",
+    "amount": 19
+  },
+  {
+    "id": 6,
+    "userId": 1,
+    "showId": 3,
+    "roomId": 1,
+    "chairId": "A2",
+    "date": "2023-10-06",
+    "timeSlot": "20:00-22:00",
+    "amount": 16
+  },
+  {
+    "id": 7,
+    "userId": 2,
+    "showId": 1,
+    "roomId": 2,
+    "chairId": "B4",
+    "date": "2023-10-07",
+    "timeSlot": "10:00-12:00",
+    "amount": 15
+  },
+  {
+    "id": 8,
+    "userId": 3,
+    "showId": 2,
+    "roomId": 3,
+    "chairId": "C6",
+    "date": "2023-10-08",
+    "timeSlot": "12:00-14:00",
+    "amount": 18
+  },
+  {
+    "id": 9,
+    "userId": 4,
+    "showId": 3,
+    "roomId": 1,
+    "chairId": "D3",
+    "date": "2023-10-09",
+    "timeSlot": "14:00-16:00",
+    "amount": 20
+  },
+  {
+    "id": 10,
+    "userId": 5,
+    "showId": 1,
+    "roomId": 2,
+    "chairId": "E2",
+    "date": "2023-10-10",
+    "timeSlot": "16:00-18:00",
+    "amount": 17
+  },
+  {
+    "id": 11,
+    "userId": 1,
+    "showId": 2,
+    "roomId": 3,
+    "chairId": "A3",
+    "date": "2023-10-11",
+    "timeSlot": "18:00-20:00",
+    "amount": 19
+  },
+  {
+    "id": 12,
+    "userId": 2,
+    "showId": 3,
+    "roomId": 1,
+    "chairId": "B5",
+    "date": "2023-10-12",
+    "timeSlot": "20:00-22:00",
+    "amount": 16
+  },
+  {
+    "id": 13,
+    "userId": 3,
+    "showId": 1,
+    "roomId": 2,
+    "chairId": "C7",
+    "date": "2023-10-13",
+    "timeSlot": "10:00-12:00",
+    "amount": 15
+  },
+  {
+    "id": 14,
+    "userId": 4,
+    "showId": 2,
+    "roomId": 3,
+    "chairId": "D4",
+    "date": "2023-10-14",
+    "timeSlot": "12:00-14:00",
+    "amount": 18
+  },
+  {
+    "id": 15,
+    "userId": 5,
+    "showId": 3,
+    "roomId": 1,
+    "chairId": "E3",
+    "date": "2023-10-15",
+    "timeSlot": "14:00-16:00",
+    "amount": 20
+  },
+  {
+    "id": 16,
+    "userId": 1,
+    "showId": 1,
+    "roomId": 2,
+    "chairId": "A4",
+    "date": "2023-10-16",
+    "timeSlot": "16:00-18:00",
+    "amount": 17
+  },
+  {
+    "id": 17,
+    "userId": 2,
+    "showId": 2,
+    "roomId": 3,
+    "chairId": "B6",
+    "date": "2023-10-17",
+    "timeSlot": "18:00-20:00",
+    "amount": 19
+  },
+  {
+    "id": 18,
+    "userId": 3,
+    "showId": 3,
+    "roomId": 1,
+    "chairId": "C8",
+    "date": "2023-10-18",
+    "timeSlot": "20:00-22:00",
+    "amount": 16
+  },
+  {
+    "id": 19,
+    "userId": 4,
+    "showId": 1,
+    "roomId": 2,
+    "chairId": "D5",
+    "date": "2023-10-19",
+    "timeSlot": "10:00-12:00",
+    "amount": 15
+  },
+  {
+    "id": 20,
+    "userId": 5,
+    "showId": 2,
+    "roomId": 3,
+    "chairId": "E4",
+    "date": "2023-10-20",
+    "timeSlot": "12:00-14:00",
+    "amount": 18
+  }
+]

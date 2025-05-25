@@ -1,0 +1,46 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@gmail.com"
+    }
+  ],
+  "movies": [
+    {
+      "id": 1,
+      "title": "Inception",
+      "genre": "Sci-Fi",
+      "duration": 148
+    }
+  ],
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Conference Room A",
+      "capacity": 20
+    }
+  ],
+  "bookings": [
+    {
+      "id": 1,
+      "userId": 1,
+      "showId": 1,
+      "roomId": 1,
+      "chairId": "A1",
+      "date": "2023-10-01",
+      "timeSlot": "10:00-12:00",
+      "amount": 15
+    }
+  ],
+  "shows": [
+    {
+      "id": 1,
+      "movieId": 1,
+      "roomId": 1,
+      "date": "2023-10-01",
+      "timeSlot": "14:00-16:00",
+      "price": 15
+    }
+  ]
+}
