@@ -1,162 +1,242 @@
 [
   {
-    "id": 1,
-    "movieId": 1,
-    "roomId": 1,
-    "date": "2023-10-01",
-    "timeSlot": "14:00-16:00",
-    "price": 15
+    "_id": "16b0e6c8-3528-4f1e-82ba-11a5215e7465",
+    "movieId": "c0748f2c-43f7-4e2f-a074-c0f9d0af55b9",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "21:00-22:00",
+    "price": 12
   },
   {
-    "id": 2,
-    "movieId": 2,
-    "roomId": 1,
-    "date": "2023-10-02",
-    "timeSlot": "16:00-18:00",
-    "price": 15
+    "_id": "258266b1-aa86-4d74-81d9-11bdb1b8f557",
+    "movieId": "70c82c79-d688-41ac-bfc4-9677805e5f02",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "10:00-19:00",
+    "price": 10
   },
   {
-    "id": 3,
-    "movieId": 3,
-    "roomId": 1,
-    "date": "2023-10-03",
-    "timeSlot": "18:00-20:00",
-    "price": 15
+    "_id": "a0fa3710-8f7e-4cb7-a5c1-5a3d173e32e0",
+    "movieId": "85ce9ec0-e983-48e8-a20f-458986188da3",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "11:00-17:00",
+    "price": 16
   },
   {
-    "id": 4,
-    "movieId": 4,
-    "roomId": 1,
-    "date": "2023-10-04",
+    "_id": "fdb4fe72-69fc-4a06-a9df-6bf509fcb8cb",
+    "movieId": "6df16751-e255-4e92-9478-0c7530436c15",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "20:00-21:00",
+    "price": 12
+  },
+  {
+    "_id": "f3db5ff3-2a76-449b-babe-0391acf56bc5",
+    "movieId": "3dd2ab81-8d04-4457-8303-6d609b4ff7ae",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "10:00-22:00",
+    "price": 10
+  },
+  {
+    "_id": "b0172161-47e9-42e0-b84a-921ba04d10dd",
+    "movieId": "c0748f2c-43f7-4e2f-a074-c0f9d0af55b9",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "13:00-23:00",
+    "price": 13
+  },
+  {
+    "_id": "9e6155e0-7118-40fd-9ffa-d7982ea9aea2",
+    "movieId": "86bbcb5d-d43b-458d-8a95-6e862dfdc4c9",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "11:00-22:00",
+    "price": 18
+  },
+  {
+    "_id": "342e8f8b-04d0-48e1-9889-0c4e5271c402",
+    "movieId": "3a4b08e9-fe08-4fa1-a9f1-cddef71d71ee",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "10:00-17:00",
+    "price": 12
+  },
+  {
+    "_id": "d56e3f4e-d455-40da-8b17-e207728398ef",
+    "movieId": "9e791da3-78f4-4860-ae88-99203ea83a6b",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "20:00-16:00",
+    "price": 19
+  },
+  {
+    "_id": "79c1a33c-945e-486c-ba03-96a6625ecd6c",
+    "movieId": "3dd2ab81-8d04-4457-8303-6d609b4ff7ae",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
     "timeSlot": "20:00-22:00",
-    "price": 15
+    "price": 19
   },
   {
-    "id": 5,
-    "movieId": 5,
-    "roomId": 1,
-    "date": "2023-10-05",
+    "_id": "cd740920-29d7-4ebe-b018-17cde32b1d78",
+    "movieId": "9e791da3-78f4-4860-ae88-99203ea83a6b",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "19:00-12:00",
+    "price": 16
+  },
+  {
+    "_id": "6591be75-fb8a-41d0-9621-c1b14ad79261",
+    "movieId": "cbaac5db-429a-41fa-9b84-72a116725e8a",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
     "timeSlot": "14:00-16:00",
+    "price": 11
+  },
+  {
+    "_id": "d5b3b931-4c8c-4f3e-a1ce-4a611f479db5",
+    "movieId": "3a4b08e9-fe08-4fa1-a9f1-cddef71d71ee",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "16:00-17:00",
+    "price": 19
+  },
+  {
+    "_id": "a0f0418e-42d0-4b02-9403-196314325ac5",
+    "movieId": "52a46bdd-cc27-455a-a393-a4222757c47d",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "19:00-19:00",
+    "price": 13
+  },
+  {
+    "_id": "69fdd1f8-9ff8-4b9b-b0d8-9dc0d684c830",
+    "movieId": "3dd2ab81-8d04-4457-8303-6d609b4ff7ae",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "11:00-18:00",
+    "price": 18
+  },
+  {
+    "_id": "9f2dabd3-adc7-49d9-a274-a0ce182bd3d9",
+    "movieId": "6df16751-e255-4e92-9478-0c7530436c15",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "19:00-17:00",
+    "price": 10
+  },
+  {
+    "_id": "adb5e06f-6638-4a73-a0ee-2901021f8cdf",
+    "movieId": "a8c9dfb7-fcaf-411f-aa29-8938547a015c",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "16:00-20:00",
+    "price": 20
+  },
+  {
+    "_id": "6074babc-636f-4afc-9976-b27804ef8995",
+    "movieId": "c0748f2c-43f7-4e2f-a074-c0f9d0af55b9",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "12:00-13:00",
+    "price": 13
+  },
+  {
+    "_id": "1cbf3c4c-a033-4f2e-bf19-d3fdaba41dbf",
+    "movieId": "8a06ffaf-a007-482c-8257-a0cb33fdc54b",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "11:00-14:00",
+    "price": 20
+  },
+  {
+    "_id": "0b9607b7-b1bc-4eff-a06e-26fedbcbcc5f",
+    "movieId": "7135e0db-e43d-426f-8064-fbb52c0c4b3a",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "14:00-17:00",
+    "price": 19
+  },
+  {
+    "_id": "3dbacb2b-c92e-4281-8f4a-6c982489473e",
+    "movieId": "6ae564c6-0a03-44c2-b7fe-94527f8ba7a4",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "21:00-16:00",
+    "price": 20
+  },
+  {
+    "_id": "c4a30d20-8e5a-491e-af33-6ff92499e64e",
+    "movieId": "8a06ffaf-a007-482c-8257-a0cb33fdc54b",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "13:00-21:00",
+    "price": 10
+  },
+  {
+    "_id": "3f1b7402-398f-4592-9d57-39a1eef084a7",
+    "movieId": "cbaac5db-429a-41fa-9b84-72a116725e8a",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "19:00-16:00",
     "price": 15
   },
   {
-    "id": 6,
-    "movieId": 6,
-    "roomId": 1,
-    "date": "2023-10-06",
-    "timeSlot": "16:00-18:00",
-    "price": 15
+    "_id": "e2b18bf5-d6b9-4b78-b1ab-6e1b5a3827ea",
+    "movieId": "85ce9ec0-e983-48e8-a20f-458986188da3",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "17:00-20:00",
+    "price": 13
   },
   {
-    "id": 7,
-    "movieId": 7,
-    "roomId": 1,
-    "date": "2023-10-07",
-    "timeSlot": "18:00-20:00",
-    "price": 15
+    "_id": "5e6b49d1-5df8-4a21-a260-47a6e168eb5c",
+    "movieId": "3dd2ab81-8d04-4457-8303-6d609b4ff7ae",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "11:00-14:00",
+    "price": 18
   },
   {
-    "id": 8,
-    "movieId": 8,
-    "roomId": 1,
-    "date": "2023-10-08",
-    "timeSlot": "20:00-22:00",
-    "price": 15
+    "_id": "3924eb4e-2ab3-491a-8863-5af85aee379f",
+    "movieId": "8a06ffaf-a007-482c-8257-a0cb33fdc54b",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "16:00-21:00",
+    "price": 10
   },
   {
-    "id": 9,
-    "movieId": 9,
-    "roomId": 1,
-    "date": "2023-10-09",
-    "timeSlot": "14:00-16:00",
-    "price": 15
+    "_id": "98d9347c-3196-44d9-9df2-d66ac5914f88",
+    "movieId": "85ce9ec0-e983-48e8-a20f-458986188da3",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "14:00-12:00",
+    "price": 12
   },
   {
-    "id": 10,
-    "movieId": 10,
-    "roomId": 1,
-    "date": "2023-10-10",
-    "timeSlot": "16:00-18:00",
-    "price": 15
+    "_id": "296d0a1c-0e3d-4882-ba0c-1cf1052ca015",
+    "movieId": "7aaf0f82-445c-4ebd-bf4a-bfc1668c32cb",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "17:00-17:00",
+    "price": 18
   },
   {
-    "id": 11,
-    "movieId": 11,
-    "roomId": 1,
-    "date": "2023-10-11",
-    "timeSlot": "18:00-20:00",
-    "price": 15
+    "_id": "52afe414-4dbd-4dc0-904a-d1ba08e471de",
+    "movieId": "7135e0db-e43d-426f-8064-fbb52c0c4b3a",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "16:00-13:00",
+    "price": 13
   },
   {
-    "id": 12,
-    "movieId": 12,
-    "roomId": 1,
-    "date": "2023-10-12",
-    "timeSlot": "20:00-22:00",
-    "price": 15
-  },
-  {
-    "id": 13,
-    "movieId": 13,
-    "roomId": 1,
-    "date": "2023-10-13",
-    "timeSlot": "14:00-16:00",
-    "price": 15
-  },
-  {
-    "id": 14,
-    "movieId": 14,
-    "roomId": 1,
-    "date": "2023-10-14",
-    "timeSlot": "16:00-18:00",
-    "price": 15
-  },
-  {
-    "id": 15,
-    "movieId": 15,
-    "roomId": 1,
-    "date": "2023-10-15",
-    "timeSlot": "18:00-20:00",
-    "price": 15
-  },
-  {
-    "id": 16,
-    "movieId": 1,
-    "roomId": 1,
-    "date": "2023-10-16",
-    "timeSlot": "20:00-22:00",
-    "price": 15
-  },
-  {
-    "id": 17,
-    "movieId": 2,
-    "roomId": 1,
-    "date": "2023-10-17",
-    "timeSlot": "14:00-16:00",
-    "price": 15
-  },
-  {
-    "id": 18,
-    "movieId": 3,
-    "roomId": 1,
-    "date": "2023-10-18",
-    "timeSlot": "16:00-18:00",
-    "price": 15
-  },
-  {
-    "id": 19,
-    "movieId": 4,
-    "roomId": 1,
-    "date": "2023-10-19",
-    "timeSlot": "18:00-20:00",
-    "price": 15
-  },
-  {
-    "id": 20,
-    "movieId": 5,
-    "roomId": 1,
-    "date": "2023-10-20",
-    "timeSlot": "20:00-22:00",
-    "price": 15
+    "_id": "25665de1-12de-4f44-8c17-f2a183b663b8",
+    "movieId": "8a06ffaf-a007-482c-8257-a0cb33fdc54b",
+    "roomId": "6835253b05be3786c6b68348",
+    "date": "2025-05-26",
+    "timeSlot": "11:00-12:00",
+    "price": 20
   }
 ]

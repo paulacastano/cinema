@@ -1,2 +1,4 @@
 motor
 pillow
+faker
+reportlab

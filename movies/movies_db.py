@@ -10,6 +10,11 @@ def get_movies():
     movies = db["movies"].find()
     return list(movies)
 
+def get_movie_by_id(movie_id):
+    # Aquí podrías buscar una película por su ID
+    movie = db["movies"].find_one({"_id": movie_id})
+    return movie
+
 def insert_movie(movie):
     # Aquí podrías insertar una nueva película en la base de datos
     db["movies"].insert_one(movie)
