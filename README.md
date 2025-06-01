@@ -48,6 +48,10 @@ python ./generate_movies.py [number-of-movies]
 python ./generate_shows.py [number-of-shows]
 ```
 
+Instale las dependencias 
+``` shell 
+pip install -r .\requirements.txt
+```
 Regrese a la carpeta raiz (`cd ..`) y ejecute la applicacion mediante el comando
 
 ```shell
