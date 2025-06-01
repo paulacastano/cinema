@@ -1,9 +1,9 @@
 from pymongo import MongoClient
 
-database_url = "mongodb://paula:1234@localhost:27017"
+database_url = "mongodb://paula:1234@localhost:27018"
 
 client = MongoClient(database_url)
-db = client["users"]
+db = client["cinema"]
 
 def get_users():
     # Aquí podrías cargar las películas desde la base de datos

@@ -1,162 +1,82 @@
 [
     {
-        "_id": "6ae564c6-0a03-44c2-b7fe-94527f8ba7a4",
-        "title": "El Aventura de Michelle",
-        "duration": 118,
-        "genres": [
-            "Aventura"
-        ]
-    },
-    {
-        "_id": "cbaac5db-429a-41fa-9b84-72a116725e8a",
-        "title": "Secreto Misterio",
-        "duration": 127,
-        "genres": [
-            "Ciencia Ficcion"
-        ]
-    },
-    {
-        "_id": "7135e0db-e43d-426f-8064-fbb52c0c4b3a",
-        "title": "Perdido Aventura",
-        "duration": 82,
-        "genres": [
-            "Drama"
-        ]
-    },
-    {
-        "_id": "7aaf0f82-445c-4ebd-bf4a-bfc1668c32cb",
-        "title": "Perdido Marc",
-        "duration": 141,
-        "genres": [
-            "Accion"
-        ]
-    },
-    {
-        "_id": "846ac7a4-7d40-4f09-ba65-d8410d749dc0",
-        "title": "Viaje en New Michele",
-        "duration": 131,
-        "genres": [
-            "Terror"
-        ]
-    },
-    {
-        "_id": "8a06ffaf-a007-482c-8257-a0cb33fdc54b",
-        "title": "Perdido Austin",
-        "duration": 157,
-        "genres": [
-            "Accion"
-        ]
-    },
-    {
-        "_id": "efe39a5b-dfbb-42f5-a973-4ed5bb5f4dca",
-        "title": "Misterio en West Marytown",
-        "duration": 60,
-        "genres": [
-            "Terror"
-        ]
-    },
-    {
-        "_id": "70c82c79-d688-41ac-bfc4-9677805e5f02",
-        "title": "Maldito Profec\u00eda",
-        "duration": 67,
-        "genres": [
-            "Drama"
-        ]
-    },
-    {
-        "_id": "3dd2ab81-8d04-4457-8303-6d609b4ff7ae",
-        "title": "El Viaje de Alexander",
-        "duration": 65,
-        "genres": [
-            "Comedia"
-        ]
-    },
-    {
-        "_id": "3a4b08e9-fe08-4fa1-a9f1-cddef71d71ee",
-        "title": "Secreto Corey",
-        "duration": 90,
-        "genres": [
-            "Aventura"
-        ]
-    },
-    {
-        "_id": "a8c9dfb7-fcaf-411f-aa29-8938547a015c",
-        "title": "Viaje en East Natalie",
-        "duration": 87,
-        "genres": [
-            "Drama"
-        ]
-    },
-    {
-        "_id": "52a46bdd-cc27-455a-a393-a4222757c47d",
-        "title": "Profec\u00eda sin retorno",
-        "duration": 153,
-        "genres": [
-            "Aventura"
-        ]
-    },
-    {
-        "_id": "6b4020fd-a35f-460f-b0a5-b0b8b121c5b2",
-        "title": "Venganza en Andrewbury",
-        "duration": 75,
-        "genres": [
-            "Ciencia Ficcion"
-        ]
-    },
-    {
-        "_id": "719deb64-5859-42a4-aefc-f79a8e771a48",
-        "title": "Aventura en East Adam",
-        "duration": 167,
-        "genres": [
-            "Ciencia Ficcion"
-        ]
-    },
-    {
-        "_id": "6df16751-e255-4e92-9478-0c7530436c15",
-        "title": "Oscuro Rachel",
-        "duration": 77,
-        "genres": [
-            "Aventura"
-        ]
-    },
-    {
-        "_id": "85ce9ec0-e983-48e8-a20f-458986188da3",
-        "title": "El Destino de Shannon",
-        "duration": 103,
-        "genres": [
-            "Comedia"
-        ]
-    },
-    {
-        "_id": "a3fc38a1-bd8c-415d-a2df-101e3de1d7ab",
-        "title": "Eterno Guerra",
-        "duration": 174,
-        "genres": [
-            "Comedia"
-        ]
-    },
-    {
-        "_id": "86bbcb5d-d43b-458d-8a95-6e862dfdc4c9",
-        "title": "Oscuro Viaje",
+        "_id": "30abca10-3f9f-4e25-aa1a-427d5d5f3aba",
+        "title": "Eterno David",
         "duration": 113,
         "genres": [
+            "Accion"
+        ]
+    },
+    {
+        "_id": "960169ad-04ea-4303-aa9a-c6720cfcb2bc",
+        "title": "El Guerra de Lisa",
+        "duration": 113,
+        "genres": [
+            "Drama"
+        ]
+    },
+    {
+        "_id": "311df1f5-d95d-4be9-a0ea-b5d8a43af1a0",
+        "title": "Imposible Todd",
+        "duration": 146,
+        "genres": [
+            "Accion"
+        ]
+    },
+    {
+        "_id": "fbf20a99-b203-463f-b7a4-6dda1466adba",
+        "title": "Brillante Jimmy",
+        "duration": 171,
+        "genres": [
             "Ciencia Ficcion"
         ]
     },
     {
-        "_id": "9e791da3-78f4-4860-ae88-99203ea83a6b",
-        "title": "Maldito Adam",
-        "duration": 110,
+        "_id": "127ba00b-234c-4a5d-860c-148423bb270e",
+        "title": "Aventura sin retorno",
+        "duration": 100,
+        "genres": [
+            "Comedia"
+        ]
+    },
+    {
+        "_id": "5b8e1b77-1a6b-4993-8548-9553ad932d67",
+        "title": "El Destino de Julie",
+        "duration": 92,
+        "genres": [
+            "Comedia"
+        ]
+    },
+    {
+        "_id": "6d57b342-5c79-40f6-81a5-0dc1a5742640",
+        "title": "Destino sin retorno",
+        "duration": 141,
+        "genres": [
+            "Ciencia Ficcion"
+        ]
+    },
+    {
+        "_id": "68473684-9b0c-40cc-87b0-c43663d5481b",
+        "title": "Eterno Profec\u00eda",
+        "duration": 62,
+        "genres": [
+            "Romance"
+        ]
+    },
+    {
+        "_id": "6deaef1e-6b71-49c9-9503-5966780e807b",
+        "title": "El Viaje de Amber",
+        "duration": 176,
         "genres": [
             "Terror"
         ]
     },
     {
-        "_id": "c0748f2c-43f7-4e2f-a074-c0f9d0af55b9",
-        "title": "Aventura en North Teresa",
-        "duration": 138,
+        "_id": "3210c6b4-62d2-48dd-acf4-8ced32123ab9",
+        "title": "Eterno Larry",
+        "duration": 123,
         "genres": [
-            "Aventura"
+            "Terror"
         ]
     }
 ]

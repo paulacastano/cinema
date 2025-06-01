@@ -1,6 +1,7 @@
 import tkinter as tk
 from tkinter import Toplevel, filedialog, messagebox
 from movies.movies_db import insert_movie
+import uuid
 
 def crear_pelicula():
     def guardar_pelicula():
@@ -15,6 +16,7 @@ def crear_pelicula():
 
         # Aquí podrías guardar en una base de datos o estructura de datos
         movie = {
+            "_id": str(uuid.uuid4()),  # Generar un ID único
             "title": titulo,
             "duration": int(duracion),
             "genres": generos.split(","),
@@ -35,7 +37,7 @@ def crear_pelicula():
 
     ventana = Toplevel()
     ventana.title("Crear nueva película")
-    ventana.geometry("400x300")
+    ventana.geometry("400x320")
     ventana.configure(bg="white")
 
     # Campos del formulario
@@ -61,5 +63,5 @@ def crear_pelicula():
     btn_buscar.pack(side=tk.LEFT)
 
     # Botón guardar
-    btn_guardar = tk.Button(ventana, text="Guardar película", command=guardar_pelicula, bg="#4CAF50", fg="white", padx=10)
+    btn_guardar = tk.Button(ventana, text="Guardar película", command=guardar_pelicula, bg="#4CAF50", fg="white")
     btn_guardar.pack(pady=20)
